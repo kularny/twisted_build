@@ -455,9 +455,12 @@ def WriteFullOTAPackage(input_zip, output_zip):
   script.ShowProgress(0.5, 0)
   script.Print("")
   script.Print("")
-  script.Print("Slim Roms")
+  script.Print("-=-=-=-=-=")
+  script.Print("Welcome to")
   script.Print("")
-  script.Print(" www.slimroms.net  ")
+  script.Print("TwistedKat")
+  script.Print("-=-=-=-=-=")
+  script.Print("")
   script.Print("")
 
   if OPTIONS.wipe_user_data:
